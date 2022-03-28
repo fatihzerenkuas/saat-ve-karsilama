@@ -1,4 +1,4 @@
 # saat-ve-karsilama
 JS ilk ödevi 
 
-![ScreenShot](D:\Coding\saat-ve-karsilama\clock.png)
+![ScreenShot](https://github.com/fatihzerenkuas/saat-ve-karsilama/blob/main/clock.png)
